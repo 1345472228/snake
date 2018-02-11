@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1512997015 source:c:\users\dangy\desktop\snack\snack\main.c
+	"base.h"
+	"snack.h"
+	"screen.h"
+	<stdio.h>
+	<conio.h>
+
+1512999264 c:\users\dangy\desktop\snack\snack\base.h
+	<windows.h>
+
+1512993904 c:\users\dangy\desktop\snack\snack\snack.h
+	"base.h"
+
+1512989733 c:\users\dangy\desktop\snack\snack\screen.h
+	<windows.h>
+	"base.h"
+
+1512993803 source:c:\users\dangy\desktop\snack\snack\screen.c
+	"base.h"
+	"screen.h"
+	<conio.h>
+	<stdio.h>
+
+1512997346 source:c:\users\dangy\desktop\snack\snack\snack.c
+	"snack.h"
+	"screen.h"
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+
